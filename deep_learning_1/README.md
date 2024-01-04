@@ -1,4 +1,4 @@
-# Projeto de Classificação
+# Projeto de Classificação 1
 
 Este é um projeto de classificação de dados utilizando um notebook Jupyter.
 
@@ -19,3 +19,10 @@ Para executar o notebook, é necessário ter instalado as seguintes bibliotecas:
 1. Clone o repositório para sua máquina local.
 2. Abra o notebook `classificação.ipynb` utilizando o Jupyter Notebook.
 3. Execute as células do notebook em ordem.
+
+## Conclusão
+
+Neste projeto foi possível aprender:
+- Como funciona o tensorflow e keras;
+- Treinar um modelo utilizando keras, criando camadas;
+- Analisar os gráficos de perda e acurácia do modelo.
